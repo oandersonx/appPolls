@@ -1,0 +1,14 @@
+proj django 2.2
+
+seguindo documentacao django 
+
+https://docs.djangoproject.com/pt-br/2.2/intro/tutorial01/
+
+
+show databasaes;
+
+use bd_meusite;
+
+show tables;	
+
+describe polls_question ou describe polls_question
